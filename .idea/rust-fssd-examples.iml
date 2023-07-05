@@ -24,6 +24,7 @@
       <sourceFolder url="file://$MODULE_DIR$/libgit2-rs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/many-requests-surf/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/many-requests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/my-actix-gcd/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/queue/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ref-with-flag/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/spawn-blocking/src" isTestSource="false" />
